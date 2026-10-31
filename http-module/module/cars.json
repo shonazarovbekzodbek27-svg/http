@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "price": 28000,
+    "color": "white",
+    "plate": "01A123BC",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2024,
+    "price": 85000,
+    "color": "black",
+    "plate": "01B777AA",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]

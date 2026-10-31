@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ali",
+    "last_name": "Valiyev",
+    "age": 20,
+    "email": "ali@example.com",
+    "group": "N-101",
+    "gpa": 4.5,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "first_name": "Madina",
+    "last_name": "Karimova",
+    "age": 19,
+    "email": "madina@example.com",
+    "group": "N-102",
+    "gpa": 4.8,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]

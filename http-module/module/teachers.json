@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sardor",
+    "last_name": "Rahimov",
+    "subject": "Node.js",
+    "email": "sardor@example.com",
+    "experience_years": 6,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]
